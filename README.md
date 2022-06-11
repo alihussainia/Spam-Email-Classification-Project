@@ -65,6 +65,9 @@ Adopted Process Model is VU Process Model which is the combination of Waterfall 
 
 <img src="https://github.com/alihussainia/Spam-Email-Classification-Project/blob/main/images/entity-relationship-diagram.png" width=800 height=500 alt="entity-relationship-diagram">
 
+# Dataset:
+The ling-spam dataset is collected from [kaggle](https://www.kaggle.com/mandygu/lingspam-dataset/notebooks).
+
 # References:
 
 <a href="https://myfik.unisza.edu.my/www/fyp/fyp18sem2/report/43660.pdf">[link]</a> N. SYAIDATUL, A. BINTI, A. HAMID SPAM DETECTION USING MACHINE LEARNING BASED BINARY
