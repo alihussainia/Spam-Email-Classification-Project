@@ -67,8 +67,13 @@ Adopted Process Model is VU Process Model which is the combination of Waterfall 
 
 # References:
 
-https://www.slideshare.net/nabinsjamkatel/spam-email-identification
+<a href="https://myfik.unisza.edu.my/www/fyp/fyp18sem2/report/43660.pdf">[link]</a> N. SYAIDATUL, A. BINTI, A. HAMID SPAM DETECTION USING MACHINE LEARNING BASED BINARY
+CLASSIFIER 2019
 
-https://myfik.unisza.edu.my/www/fyp/fyp18sem2/report/43660.pdf
+<a href="https://www.ripublication.com/ijaer18/ijaerv13n24_39.pdf">[link]</a> P. Pandey, C. Agrawal, T. N. Ansari A Hybrid Algorithm for Malicious Spam Detection in Email through Machine Learning 2018
 
-https://www.ripublication.com/ijaer18/ijaerv13n24_39.pdf
+<a href="https://www.researchgate.net/publication/287632678_COMPARISON_OF_MACHINE_LEARNING_TECHNIQUES_IN_SPAM_E-MAIL_CLASSIFICATION">[link]</a> S. Jukic, J. Azemović, D. Kečo, J. Kevric  Comparison of Machine Learning Techniques in Spam E-mail Classification 2015
+
+<a href="http://bid.berkeley.edu/cs294-1-spring12/images/archive/6/6a/20120515031244!Spam-lupher-engle-xin.pdf">[link]</a> A. Lupher, C. Engle, R. Xin Feature Selection and Classification of Spam on Social Networking Sites 2012
+
+<a href="https://www.researchgate.net/publication/50235003_Supervised_Learning_Approach_for_Spam_Classification_Analysis_using_Data_Mining_Tools">[link]</a> R. D. Lakshmi, N. Radha Supervised Learning Approach for Spam Classification Analysis using Data Mining Tools 2010
