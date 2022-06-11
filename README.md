@@ -1,4 +1,5 @@
-# Spam Email Classification Project
+<h1>Spam Email Classification Project</h1>
+
 The expanding volume of spam emails has created a need for solid spam filtering solutions. Therefore, the purposes of this project are:
 
    - Use Python based Text Classification technique to classify email spam messages.
@@ -9,13 +10,12 @@ The expanding volume of spam emails has created a need for solid spam filtering 
 
 <b>Note:</b> This is a final year project for the Master of Computer Science degree program at Virtual University of Pakistan.
 
-# Deployed App:
+<h3> Deployed App:</h2>
+
 https://share.streamlit.io/alihussainia/spam-email-classification-project/main
 
-# MyBinder Code Sandbox:
-https://mybinder.org/v2/gh/alihussainia/Email-Spam-Classifier-App/main?urlpath=lab
+<h3>Tools:</h3>
 
-# Tools:
 - Anaconda Package Manager
 - Jupyter Notebook IDE
 - Python Programming Language
@@ -23,23 +23,27 @@ https://mybinder.org/v2/gh/alihussainia/Email-Spam-Classifier-App/main?urlpath=l
 - Lime Explainable AI Python library
 - Streamlit Web App Development Framework
 
-# Testing Samples:
+<h3>Testing Samples:</h3>
 
-- Spam Text:
-
-your microsoft account has been compromised ,you must update your password before or else your account going to close click to update. By doing this we are also going to give you $500 reward from our side into your bank account.
-
-
+- <b>Spam Text:
+   
+```quote
+   your microsoft account has been compromised ,you must update your password before or else your account going to close click to update. By doing this we are also going to give you $500 reward from our side into your bank account.
+   ```
+  
 - Non-Spam Text:
 
+```quote
 Today we want to inform you that the application period for free Google Scholarships in Data Analytics is now open! Please apply by March 30th, 2021 via https://www.coursera.org/professional-certificates/google-data-analytics
+```
 
-# Process Model:
+<h3>Process Model:</h3>
+   
 Adopted Process Model is VU Process Model which is the combination of Waterfall and Spiral Methodologies. One feature of waterfall methodology is the sequence of steps that we take in our methodology and one feature of spiral methodology is to go previous steps which is also included in our methodology.  
 
 <img src="https://github.com/alihussainia/Spam-Email-Classification-Project/blob/main/images/VU%20Process%20Model.png" width=800 height=500 alt="VU Process Model">
 
-# User Journey (GUI Based):
+<h3>User Journey (GUI Based):</h3>
 
 <b>Step 1:</b>
 
@@ -61,14 +65,14 @@ Adopted Process Model is VU Process Model which is the combination of Waterfall 
 
 <img src="https://github.com/alihussainia/Spam-Email-Classification-Project/blob/main/images/user-journey-step-5.png" width=800 height=500 alt="User Journey Step 5">
 
-# Entity-Relationship Diagram:
+<h3>Entity-Relationship Diagram:</h3>
 
 <img src="https://github.com/alihussainia/Spam-Email-Classification-Project/blob/main/images/entity-relationship-diagram.png" width=800 height=500 alt="entity-relationship-diagram">
 
-# Dataset:
-The ling-spam dataset is collected from [kaggle](https://www.kaggle.com/mandygu/lingspam-dataset/notebooks).
+<h3>Dataset:</h3>
+The ling-spam dataset is collected from <a href="https://www.kaggle.com/mandygu/lingspam-dataset/notebooks">kaggle</a>.
 
-# References:
+<h3>References:</h3>
 
 <a href="https://myfik.unisza.edu.my/www/fyp/fyp18sem2/report/43660.pdf">[link]</a> N. SYAIDATUL, A. BINTI, A. HAMID SPAM DETECTION USING MACHINE LEARNING BASED BINARY
 CLASSIFIER 2019
