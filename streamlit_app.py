@@ -71,7 +71,7 @@ def preprocessor(text):
     text = df['Cleaned_Text'][0]
     return text
 
-model = joblib.load('spam_classifier.joblib')
+model = joblib.load('model/spam_classifier.joblib')
 
 def classify_message(model, message):
 
